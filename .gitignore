@@ -1,3 +1,7 @@
 # Build folder and log file
 build/
 build.log
+
+[pyrogram]
+api_id = 12345
+api_hash = 805449121:AAGsnwIWiNiGbCj03vVi4TWAL6_LVIWusQ8
